@@ -12,5 +12,8 @@ public class OrgTest {
 		System.out.println("execute editOrgTest");
 		System.out.println("===========================");
 	}
-
+	@Test
+	public void deletOrgTest() {
+		System.out.println("deleat");
+	}
 }
